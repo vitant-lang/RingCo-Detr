@@ -1,4 +1,4 @@
-# RingCo-DETR: Train-time Stability for Oriented DETR (No Inference Changes)
+# RingCo-DETR: Train-time Stability for Oriented DETR 
 
 [![python](https://img.shields.io/badge/Python-3.10+-informational)]()
 [![pytorch](https://img.shields.io/badge/PyTorch-2.1+-informational)]()
